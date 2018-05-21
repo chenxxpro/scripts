@@ -14,7 +14,5 @@
 
 运行命令：
 
-```bash
-chmod +x ./service.sh
-./service.sh start
-```
+> $ chmod +x ./service.sh
+> $ ./service.sh start
