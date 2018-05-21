@@ -8,7 +8,7 @@
 
 ### Usage
 
-下载`service.sh`文件，修改其文件前部分的配置信息。
+下载[**service.sh**](https://raw.githubusercontent.com/yoojia/scripts/master/service.sh)文件，修改其文件前部分的配置信息。
 
 ![](./images/service-config.png)
 
