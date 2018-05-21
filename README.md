@@ -15,4 +15,5 @@
 运行命令：
 
 > $ chmod +x ./service.sh
+> 
 > $ ./service.sh start
